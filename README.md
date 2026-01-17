@@ -42,5 +42,4 @@ Input and button animations
 Layout and visual elements
 
 🤝 Contribution
-ث
 Feel free to suggest improvements or customize the design as you like
